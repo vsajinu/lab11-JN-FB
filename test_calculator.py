@@ -1,3 +1,7 @@
+# https://github.com/vsajinu/lab11-JN-FB/tree/main
+# Partner 1: Jimmy Nguyen
+# Partner 2: Fred Bertil
+
 import unittest
 from calculator import *
 
